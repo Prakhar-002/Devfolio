@@ -6,7 +6,7 @@ Defolio is a modern and responsive personal portfolio website built using **HTML
 
 <h1 align="center"> 
 
-<a href="https://devwebfolio.netlify.app/"><strong> ➥ Live Demo</strong></a>
+<a href="https://devwebfolio.netlify.app/"><strong> ➥ Live Portfolio</strong></a>
 </h1>
 
 <br/>
